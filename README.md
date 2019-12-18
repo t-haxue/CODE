@@ -4,7 +4,7 @@
 
 | Index | Title                                                        | Solution               |
 | ----- | ------------------------------------------------------------ | ---------------------- |
-| 1     | [两数之和](https://leetcode-cn.com/problems/two-sum/)        | [C++](./WEEK 1/1.cpp)  |
+| 1     | [两数之和](https://leetcode-cn.com/problems/two-sum/)        | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%201/1.cpp)  |
 | 11    | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [C++](./WEEK 1/11.cpp) |
 | 15    | [三数之和](https://leetcode-cn.com/problems/3sum/)           | [C++](WEEK 1/15.cpp)   |
 | 31    | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [C++](WEEK 1/31.cpp)   |
