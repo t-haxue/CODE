@@ -47,16 +47,16 @@
 
 ## Week 4
 
-| Index | Title | Solution |
-| ----- | ----- | -------- |
-|       |       |          |
-|       |       |          |
-|       |       |          |
-|       |       |          |
-|       |       |          |
-|       |       |          |
-|       |       |          |
-|       |       |          |
-|       |       |          |
-|       |       |          |
+| Index | Title                                                        | Solution                                                     |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 17    | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%204/17.cpp) |
+| 22    | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%204/22.cpp) |
+| 46    | [全排列](https://leetcode-cn.com/problems/permutations/)     | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%204/46.cpp) |
+| 51    | [N皇后](https://leetcode-cn.com/problems/n-queens/)          | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%204/51.cpp) |
+| 78    | [子集](https://leetcode-cn.com/problems/subsets/)            | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%204/78.cpp) |
+| 93    | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%204/93.cpp) |
+| 401   | [二进制手表](https://leetcode-cn.com/problems/binary-watch/) |                                                              |
+| 687   | [最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%204/687.cpp) |
+| 698   | [划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/) |                                                              |
+| 726   | [原子的数量](https://leetcode-cn.com/problems/number-of-atoms/) |                                                              |
 
