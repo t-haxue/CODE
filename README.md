@@ -60,3 +60,18 @@
 | 698   | [划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/) |                                                              |
 | 726   | [原子的数量](https://leetcode-cn.com/problems/number-of-atoms/) |                                                              |
 
+## Week 5
+
+| Index | Title                                                        | Solution                                                     |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 101   | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%205/101.cpp) |
+| 104   | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%205/104.cpp) |
+| 105   | [从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%205/105.cpp) |
+| 108   | [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%205/108.cpp) |
+| 109   | [有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) |                                                              |
+| 114   | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%205/114.cpp) |
+| 116   | [填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%205/116.cpp) |
+| 199   | [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%205/199.cpp) |
+| 394   | [字符串解码](https://leetcode-cn.com/problems/decode-string/) |                                                              |
+| 488   | [祖玛游戏](https://leetcode-cn.com/problems/zuma-game/)      |                                                              |
+
