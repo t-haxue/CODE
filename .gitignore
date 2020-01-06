@@ -1,0 +1,4 @@
+.idea
+cmake-build-debug
+local.h
+main.cpp

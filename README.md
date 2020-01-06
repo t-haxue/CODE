@@ -75,3 +75,18 @@
 | 394   | [字符串解码](https://leetcode-cn.com/problems/decode-string/) |                                                              |
 | 488   | [祖玛游戏](https://leetcode-cn.com/problems/zuma-game/)      |                                                              |
 
+## Week 6
+
+| Index | Title                                                        | Solution                                                     |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 5     | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%206/5.cpp) |
+| 64    | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%206/64.cpp) |
+| 70    | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%206/70.cpp) |
+| 72    | [编辑距离](https://leetcode-cn.com/problems/edit-distance/)  |                                                              |
+| 139   | [单词拆分](https://leetcode-cn.com/problems/word-break/)     | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%206/139.cpp) |
+| 198   | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)   | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%206/198.cpp) |
+| 300   | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%206/300.cpp) |
+| 303   | [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%206/303.cpp) |
+| 309   | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%206/309.cpp) |
+| 322   | [零钱兑换](https://leetcode-cn.com/problems/coin-change/)    | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%206/.cpp) |
+
