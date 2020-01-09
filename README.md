@@ -90,3 +90,18 @@
 | 309   | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%206/309.cpp) |
 | 322   | [零钱兑换](https://leetcode-cn.com/problems/coin-change/)    | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%206/.cpp) |
 
+## Week 7
+
+| Index | Title                                                        | Solution                                                     |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 45    | [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) |                                                              |
+| 55    | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/)      | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%207/55.cpp) |
+| 122   | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%207/122.cpp) |
+| 134   | [加油站](https://leetcode-cn.com/problems/gas-station/)      | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%207/134.cpp) |
+| 135   | [分发糖果](https://leetcode-cn.com/problems/candy/)          | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%207/135.cpp) |
+| 376   | [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%207/376.cpp) |
+| 406   | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%207/406.cpp) |
+| 455   | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%207/455.cpp) |
+| 621   | [任务调度器](https://leetcode-cn.com/problems/task-scheduler/) |                                                              |
+| 714   | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%207/714.cpp) |
+
