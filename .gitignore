@@ -1,5 +1,10 @@
 .idea
+.vscode
 cmake-build-debug
 CMakeLists.txt
 local.h
 main.cpp
+main.kt
+*.o
+*.exe
+*.jar
