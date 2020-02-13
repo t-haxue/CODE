@@ -105,3 +105,33 @@
 | 621   | [任务调度器](https://leetcode-cn.com/problems/task-scheduler/) |                                                              |
 | 714   | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%207/714.cpp) |
 
+## Week 8
+
+| Index | Title                                                        | Solution                                                     |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 4     | [寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) |                                                              |
+| 33    | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | [Kotlin](https://github.com/t-haxue/CODE/tree/master/WEEK%208/33.kt) |
+| 34    | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%208/34.cpp) |
+| 35    | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%208/35.cpp) |
+| 50    | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n)         | [Kotlin](https://github.com/t-haxue/CODE/tree/master/WEEK%208/50.kt) |
+| 69    | [x 的平方根](https://leetcode-cn.com/problems/sqrtx)         | [Kotlin](https://github.com/t-haxue/CODE/tree/master/WEEK%208/69.kt) |
+| 74    | [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix) |                                                              |
+| 167   | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | [Kotlin](https://github.com/t-haxue/CODE/tree/master/WEEK%208/167.kt) |
+| 367   | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square) | [C++](https://github.com/t-haxue/CODE/tree/master/WEEK%208/367.cpp) |
+| 704   | [二分查找](https://leetcode-cn.com/problems/binary-search)   | [Kotlin](https://github.com/t-haxue/CODE/tree/master/WEEK%208/704.kt) |
+
+## Week 9
+
+| Index | Title                                                        | Solution                                                     |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 20    | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | [Kotlin](https://github.com/t-haxue/CODE/tree/master/WEEK%209/20.kt) |
+| 84    | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram) | [Kotlin](https://github.com/t-haxue/CODE/tree/master/WEEK%209/84.kt) |
+| 103   | [二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) |                                                              |
+| 150   | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) |                                                              |
+| 155   | [最小栈](https://leetcode-cn.com/problems/min-stack)         | [Kotlin](https://github.com/t-haxue/CODE/tree/master/WEEK%209/155.kt) |
+| 173   | [二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator) | [Kotlin](https://github.com/t-haxue/CODE/tree/master/WEEK%209/20.kt) |
+| 225   | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues) | [Kotlin](https://github.com/t-haxue/CODE/tree/master/WEEK%209/225.kt) |
+| 232   | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) | [Kotlin](https://github.com/t-haxue/CODE/tree/master/WEEK%209/232.kt) |
+| 496   | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i) | [Kotlin](https://github.com/t-haxue/CODE/tree/master/WEEK%209/496.kt) |
+| 503   | [下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii) | [Kotlin](https://github.com/t-haxue/CODE/tree/master/WEEK%209/503.kt) |
+
